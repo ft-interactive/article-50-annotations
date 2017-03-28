@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+
+{% block article_body %}
+
+{% markdown %}
+
+{{ annotations | dump }}
+<div class="o-grid-row">
+
+<section data-o-grid-colspan="12 M10 Mcenter L8 Lpush1 Luncenter XL7" id="speech-intro">
+	<figure class="graphic graphic-b-1 graphic-pad-1">
+  <img alt="" src="https://image.webservices.ft.com/v1/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F42bb35c0-0834-11e7-97d1-5e720a26771b?source=ig&fit=scale-down&width=700"></img>
+    <figcaption class="o-typography-caption">Kari-Ruth Pedersen</figcaption>
+</figure>
+
+{{ intro }}
+
+</section>
+
+<section data-o-grid-colspan="12 M10 Mcenter L8 Lpush1 Luncenter XL7">
+
+<br />
+
+<div class="speech" data-annotation-text data-annotation-id="{{berthaId}}">
+<span class="speech__quote speech__quote--top"></span>
+
+{{ speech | safe }}
+
+</div>
+
+
+</section>
+</div>
+{% endmarkdown %}
+{% endblock %}
