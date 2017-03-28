@@ -25,7 +25,17 @@ $highlight: rgb(80,212,196);
 }
 
 .speech__quote--top {
-  @include oIconsGetIcon('speech-left', oColorsGetPaletteColor('grey-tint2'), 48);
+  background-image: url("https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3A0eabdc72-13d2-11e7-80f4-13e067d5072c?source=ig&width=60");
+  background-size: 80px 60px;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50%;
+  background-color: transparent;
+  vertical-align: baseline;
 }
 
 .speech__quote--bottom {
