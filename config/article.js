@@ -62,19 +62,19 @@ export default () => ({ // eslint-disable-line
         optional social meta data?
   */
   // General social
- // socialImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F42bb35c0-0834-11e7-97d1-5e720a26771b?source=ig&fit=scale-down&width=1200',
+ socialImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F71231d3a-13c7-11e7-b0c1-37e417ee6c76?source=ig&fit=scale-down&width=1200',
   // socialHeadline: '',
   // socialSummary: 'The UK's Article 50 notification letter, annotated',
 
   // TWITTER
-// twitterImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fig.ft.com%2Fsites%2Ffederal-reserve-march-meeting-2017%2Fimages%2Fyellen_ann_twits.jpg?source=ig&width=1800',
-//twitterCreator: '@ft',
-  // tweetText:  '',
-//twitterHeadline:  'The UK's Article 50 notification letter, annotated',
+twitterImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F71231d3a-13c7-11e7-b0c1-37e417ee6c76?source=ig&fit=scale-down&width=1800',
+twitterCreator: '@ft',
+tweetText:  'The full Brexit notification with comments from the FT',
+twitterHeadline:  'The UK\'s Article 50 notification letter, annotated',
 
   // FACEBOOK
-  // facebookImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fig.ft.com%2Fsites%2Ffederal-reserve-march-meeting-2017%2Fimages%2Fyellen_ann_face.jpg?source=ig&width=1800',
-  // facebookHeadline: 'The UK's Article 50 notification letter, annotated',
+ facebookImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F71231d3a-13c7-11e7-b0c1-37e417ee6c76?source=ig&fit=scale-down&width=1800',
+ facebookHeadline: 'The UK\'s Article 50 notification letter, annotated',
 
   tracking: {
 
