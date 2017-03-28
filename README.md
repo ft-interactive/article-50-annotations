@@ -1,6 +1,6 @@
-# federal-reserve-march-meeting-2017
+# article-50-annotations
 
-March 2017 Fed statement – [annotated](https://ig.ft.com/sites/federal-reserve-march-meeting-2017/), March 15, 2017. Based on [trump-first-address](https://github.com/ft-interactive/trump-first-address).
+The UK government 's Article 50 notification – [annotated](https://ig.ft.com/article-5-annotated), March 29, 2017. Based on [trump-first-address](https://github.com/ft-interactive/trump-first-address).
 
 [![Build Status][circle-image]][circle-url] [![Dependency Status][devdeps-image]][devdeps-url]
 
