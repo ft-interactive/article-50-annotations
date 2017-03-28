@@ -18,7 +18,7 @@ export default () => ({ // eslint-disable-line
 
   topic: {
     name: 'Brexit',
-    url: 'hhttps://www.ft.com/topics/themes/Brexit',
+    url: 'https://www.ft.com/topics/themes/Brexit',
   },
 
   relatedArticle: {
