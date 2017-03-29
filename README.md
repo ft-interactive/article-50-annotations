@@ -1,6 +1,8 @@
 # article-50-annotations
 
-The UK government 's Article 50 notification – [annotated](https://ig.ft.com/article-50-annotated), March 29, 2017. Based on [trump-first-address](https://github.com/ft-interactive/trump-first-address).
+The UK government 's Article 50 notification – [annotated](https://ig.ft.com/article-50-annotated), March 29, 2017. 
+
+Based on previous versions at [trump-first-address](https://github.com/ft-interactive/trump-first-address) and [federal-reserve-march-meeting-2017](https://github.com/ft-interactive/federal-reserve-march-meeting-2017).
 
 [![Build Status][circle-image]][circle-url] [![Dependency Status][devdeps-image]][devdeps-url]
 
