@@ -11,7 +11,7 @@ export default () => ({ // eslint-disable-line
   //       new Date('2016-05-17T17:11:22Z')
   publishedDate: new Date(),
 
-  headline: 'Theresa May’s Article 50 notification — annotated',
+  headline: 'Theresa May’s Article 50 letter decoded',
 
   // summary === standfirst (Summary is what the content API calls it)
   summary: 'The UK government’s full Brexit letter with FT correspondents’ notes and comments',
