@@ -21,6 +21,14 @@ $highlight: rgb(80,212,196);
     p {
         color: #505050;
         line-height: 1.8;
+
+        .o-typography-body-wrapper & {
+          font: 18px/1.4 Georgia, serif;
+        }
+    }
+
+    blockquote {
+      margin-left: 1.5em;
     }
 }
 
