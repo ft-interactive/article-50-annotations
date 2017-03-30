@@ -43,7 +43,7 @@ export default () => ({ // eslint-disable-line
   ],
 
   // Appears in the HTML <title>
-  title: 'Article 50 letter – annotated',
+  title: 'Article 50 letter decoded',
 
   // meta data
   description: 'The full Brexit notification with comments from the FT',
